@@ -1,1 +1,0 @@
-data merge block ~ ~ ~ {SpawnData:{entity:{id:"minecraft:skeleton"}},SpawnPotentials:[{weight:1,data:{entity:{id:"minecraft:skeleton"}}}]}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "place_spawner": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:spawner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "spawner_recovery:place"
+  }
+}
