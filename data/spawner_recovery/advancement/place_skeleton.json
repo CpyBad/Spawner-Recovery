@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "place_skeleton_spawner": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:spawner"
+              ],
+              "predicates": {
+                "minecraft:custom_data": {
+                  "spawner_mob": "minecraft:skeleton"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "spawner_recovery:place_skeleton"
+  }
+}

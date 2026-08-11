@@ -1,0 +1,1 @@
+data merge block ~ ~ ~ {SpawnData:{entity:{id:"minecraft:skeleton"}}}
