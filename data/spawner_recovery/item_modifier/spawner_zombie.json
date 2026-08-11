@@ -1,0 +1,18 @@
+{
+  "function": "minecraft:set_lore",
+  "mode": "replace_all",
+  "lore": [
+    [
+      {
+        "text": "Mob: ",
+        "color": "gray",
+        "italic": false
+      },
+      {
+        "translate": "entity.minecraft.zombie",
+        "color": "white",
+        "italic": false
+      }
+    ]
+  ]
+}
