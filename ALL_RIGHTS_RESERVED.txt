@@ -1,0 +1,29 @@
+Copyright (c) 2026 CpyBad
+All Rights Reserved.
+
+This project and all associated files, code, assets, documentation, and content
+are protected by copyright.
+
+No permission is granted to copy, reproduce, modify, redistribute, repackage,
+publish, mirror, sublicense, sell, or create derivative works from this project
+or any substantial portion of it without prior written permission from CpyBad.
+
+You may download and use the released datapack for personal use, provided that
+the original files are not modified or redistributed.
+
+You may not:
+
+- Reupload or redistribute the datapack or any modified version of it.
+- Publish mirrors or alternative download links without permission.
+- Modify and redistribute the datapack as your own work.
+- Use the project's code, assets, or documentation in another project without
+  prior written permission.
+- Remove or alter copyright notices or attribution.
+
+All rights not expressly granted above are reserved by CpyBad.
+
+For permission requests, contact the project author.
+
+SPAWNER RECOVERY and future projects published by CpyBad are released under
+this All Rights Reserved license unless a different license is explicitly
+provided with a specific project or release.
